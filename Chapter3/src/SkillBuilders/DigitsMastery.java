@@ -6,7 +6,7 @@ Purpose: Create a digits application that prompts the user for a two-digit numbe
 the ones-place and tens-place digits.
 
 */
-package Mastery;
+package SkillBuilders;
 
 import java.util.Scanner;
 

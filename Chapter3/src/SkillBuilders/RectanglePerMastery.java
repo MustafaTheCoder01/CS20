@@ -6,7 +6,7 @@ Purpose: Create a RectanglePerimeter application that calculates and displays th
 width 4 and length 13. The perimeter of a rectangle is calculated as 2w + 2l. Use variables as appropriate.
 */
 
-package Mastery;
+package SkillBuilders;
 
 import java.util.Scanner;
 

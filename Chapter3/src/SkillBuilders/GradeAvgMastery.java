@@ -6,7 +6,7 @@ Purpose: Create a GradeAvg application that prompts the user for five grades and
 are integer values (for example, 89, 97, and so on). Real division should be performed when calculating the average. - Modify the GradeAvg application to use
 the += operator to sum the grades as they are entered by the user. Format the average grade to display as a percentage.
 */
-package Mastery;
+package SkillBuilders;
 
 import java.util.Scanner;
 
