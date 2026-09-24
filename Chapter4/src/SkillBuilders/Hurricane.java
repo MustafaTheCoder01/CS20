@@ -52,7 +52,7 @@ public class Hurricane {
             System.out.println("Invalid category. Please enter a number from 1 to 5.");
         }
 
-        input.close();
+        
 
 	}
 
