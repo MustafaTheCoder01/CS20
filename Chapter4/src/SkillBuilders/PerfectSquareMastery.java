@@ -34,3 +34,10 @@ public class PerfectSquareMastery {
 	}
 
 }
+/* Screen Dump
+Enter a number: 49
+Perfect square
+
+ Enter a number: 35
+Not a perfect square
+ */
