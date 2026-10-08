@@ -1,3 +1,12 @@
+/*
+
+Program: MathTutor.java          Last Date of this Revision: October 8th 2026
+
+Purpose:Create a MathTutor application that displays math problems by randomly generating two numbers, 1
+through 10 and an operator (*, +, –, /), and then prompts the user for an answer. The application should
+check the answer, display a message, and the correct answer, if necessary. The application output
+should look similar to: What is 6 + 2? 8 Correct 
+*/
 package Mastery;
 
 import java.util.Random;
@@ -55,3 +64,7 @@ public class MathTutor {
 	}
 
 }
+/* Screen Dump
+What is 7 * 4? 28
+Correct!
+ */

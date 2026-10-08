@@ -32,9 +32,7 @@ public class RandomNum {
 		max = input.nextInt();
 		
 		//Generate the random numbers
-        System.out.println("Random number: " + (int)(max - min + 1) * Math.random()+ min);
-		
-        
+		System.out.println("Random number: " + ((int)(Math.random() * (max - min + 1)) + min));
         
     
 	}
